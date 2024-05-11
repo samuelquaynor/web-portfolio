@@ -1,0 +1,90 @@
+[
+  {
+    "id": "2",
+    "title": "Material Max Homepage",
+    "url": "https://github.com/samuelquaynor",
+    "ref": ["materialmax"],
+    "date": "12th July, 2021",
+    "images": [""],
+    "client": "Project",
+    "category": "Web",
+    "description": "Material Max is a web app built using Firebase and Vue.js technologies. It provides users with a convenient platform to purchase construction materials and access construction-related services. The app is accessible from any device with an internet connection and offers a seamless user experience."
+  },
+  {
+    "id": "1",
+    "title": "Heny Web",
+    "ref": ["heny_web"],
+    "url": "https://heny.app",
+    "date": "2nd February, 2022",
+    "images": [""],
+    "client": "HENY",
+    "category": "Web",
+    "description": "Heny is creating a managed market place for Authentic African experiences where individuals and small business get to participate the the gig economy by sharing their experiences and culture with others. These experiences are seen by our over 2,400+ customers who are interested in new experiences.We envision to be the driving force that is empowering users to discover new experiences across the globe. Simply put, HENY is helping users discover new experiences across Africa"
+  },
+  {
+    "id": "3",
+    "title": "PDA Funds Web",
+    "ref": ["pda_web"],
+    "url": "https://pdafunds.com",
+    "date": "27th May, 2022",
+    "client": "PDA FUNDS",
+    "images": [""],
+    "category": "Web",
+    "description": "PDA Funds is a fintech app built using Flutter, Nest.js, Vue.js, and Firebase. It provides users with an easy-to-use platform to invest in mutual funds, bonds, equities, and offers loan options. The app is accessible from any device and leverages modern technologies for a fast and secure user experience."
+  },
+  {
+    "id": "4",
+    "title": "Stanbic Funeral Collection",
+    "url": "34.175.179.104",
+    "ref": ["stanbic"],
+    "date": "1st January, 2023",
+    "client": "Stanbic Bank",
+    "images": [""],
+    "category": "Web",
+    "description": "Stanbic Funeral Collection is a platform built with React and Django that allows users to easily collect and manage funeral donations. It provides an intuitive interface for creating collections and tracking contributions, while ensuring a fast and secure user experience."
+  },
+  {
+    "id": "7",
+    "title": "Face Recognition Attendance System",
+    "url": "https://github.com/samuelquaynor",
+    "date": "29th July, 2021",
+    "ref": ["facerog"],
+    "client": "Project",
+    "category": "Web",
+    "images": [""],
+    "description": "The Face Recognition Attendance System, built with Django, allows organizations to track attendance using facial recognition technology. This system eliminates the need for manual tracking and provides real-time reports, offering a secure and user-friendly solution for attendance management."
+  },
+  {
+    "id": "8",
+    "title": "Kuramo Capital",
+    "url": "https://github.com/samuelquaynor",
+    "date": "8th May, 2021",
+    "client": "Kuramo Capital",
+    "ref": ["materialmax"],
+    "images": [""],
+    "category": "Web",
+    "description": "Kuramo Capital Management is an independent investment management firm that provides targeted global investment management services to institutional clients and ultra-high net worth individuals, focused on alternative assets in emerging and frontier markets."
+  },
+  {
+    "id": "18",
+    "title": "Stanbic Account Opening",
+    "url": "https://businessselfservice.stanbic.com.gh/Accountopening/welcome",
+    "date": "8th May, 2023",
+    "client": "Stanbic Bank Ghana",
+    "ref": ["accountopening"],
+    "images": [""],
+    "category": "Web",
+    "description": "Kuramo Capital Management is an independent investment management firm that provides targeted global investment management services to institutional clients and ultra-high net worth individuals, focused on alternative assets in emerging and frontier markets."
+  },
+  {
+    "id": "9",
+    "title": "Cashpipe",
+    "url": "https://github.com/samuelquaynor",
+    "date": "19th June, 2021",
+    "ref": ["cashpipe"],
+    "client": "Project",
+    "images": [""],
+    "category": "Web",
+    "description": "Cashpipe is a fintech web app that allows users to send and receive money quickly and securely from anywhere in the world. The app offers flexible payment options, a user-friendly interface, and robust security features, making it a top-performing solution for online money transfers."
+  }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "id": "10",
+        "title": "The Maker's House Chapel International",
+        "url": "https://github.com/samuelquaynor",
+        "date": "27th April, 2023",
+        "ref": [
+            "makers"
+        ],
+        "images": [
+            ""
+        ],
+        "client": "Project",
+        "category": "App",
+        "description": "The Maker's House Chapel International app, built with Flutter and Firebase, provides easy access to church news, sermons, prayer sessions, and the Bible. The app also includes a secure giving platform and an intuitive interface, making it an excellent tool for members to stay connected with the church community."
+    },
+    {
+        "id": "5",
+        "title": "PDA App",
+        "url": "https://github.com/samuelquaynor",
+        "date": "17th August, 2022",
+        "ref": [
+            "pda_mobile"
+        ],
+        "client": "PDA FUNDS",
+        "images": [
+            ""
+        ],
+        "category": "App",
+        "description": "PDA Funds is a fintech app built using Flutter, Nest.js, Vue.js, and Firebase. It provides users with an easy-to-use platform to invest in mutual funds, bonds, equities, and offers loan options. The app is accessible from any device and leverages modern technologies for a fast and secure user experience."
+    },
+    {
+        "id": "6",
+        "title": "Digi-Farm",
+        "url": "https://github.com/samuelquaynor",
+        "date": "20th October, 2022",
+        "client": "Project",
+        "ref": [
+            "digi-farm"
+        ],
+        "images": [
+            ""
+        ],
+        "category": "App",
+        "description": "Digifarm is a farmer's aid platform that uses Flutter, Firebase, Django, and machine learning to help farmers manage their farms more efficiently. It provides accurate predictions for crop yield, weather, and plant diseases, while also offering features for managing farm tasks. The app offers a seamless user experience and reliable predictions, making it a powerful tool for farmers."
+    },
+    {
+        "id": "11",
+        "title": "Heny Mobile App",
+        "url": "https://github.com/samuelquaynor",
+        "date": "12/12/12",
+        "ref": [
+            "heny_mobile"
+        ],
+        "client": "Project",
+        "category": "App",
+        "images": [
+            ""
+        ],
+        "description": ""
+    },
+    {
+        "id": "12",
+        "title": "Grocery App",
+        "url": "https://github.com/samuelquaynor",
+        "date": "12/12/12",
+        "ref": [
+            "grocery"
+        ],
+        "client": "Project",
+        "category": "App",
+        "images": [
+            ""
+        ],
+        "description": ""
+    },
+    {
+        "id": "13",
+        "title": "Uber Clone",
+        "url": "https://github.com/samuelquaynor",
+        "date": "11th February, 2022",
+        "client": "Project",
+        "images": [
+            ""
+        ],
+        "ref": [
+            "uber_clone",
+            "driver",
+            "rider"
+        ],
+        "category": "App",
+        "description": "The Uber clone project built with Flutter and Firebase is a ride-hailing app that allows users to request and schedule rides with drivers in their area. The app uses real-time GPS tracking to match users with nearby drivers and provides estimated arrival times and fare estimates. Payments are made securely through the app and users can rate drivers after their ride. The project utilizes Flutter for the front-end development and Firebase for the backend, including authentication, real-time database, and cloud functions."
+    }
+]
